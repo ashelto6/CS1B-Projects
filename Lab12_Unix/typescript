@@ -1,0 +1,18 @@
+Script started on Fri 24 Apr 2020 10:53:30 PM EDT
+]0;ashelto6@wasp:~/ashelto6/Lab12_Unix[?1034h[ashelto6@wasp Lab12_Unix]$ g++ vectorUnix.cpp
+]0;ashelto6@wasp:~/ashelto6/Lab12_Unix[ashelto6@wasp Lab12_Unix]$ ./a/out
+bash: ./a/out: No such file or directory
+]0;ashelto6@wasp:~/ashelto6/Lab12_Unix[ashelto6@wasp Lab12_Unix]$ ./a.out
+enter operation [a/r/q] and number: a 5.0
+your numbers: 5 
+enter operation [a/r/q] and number: a 5.0
+your numbers: 5 
+enter operation [a/r/q] and number: a 8.0
+your numbers: 5 8 
+enter operation [a/r/q] and number: r 8.  5.0
+your numbers: 8 
+enter operation [a/r/q] and number: q
+]0;ashelto6@wasp:~/ashelto6/Lab12_Unix[ashelto6@wasp Lab12_Unix]$ exit
+exit
+
+Script done on Fri 24 Apr 2020 10:54:12 PM EDT
