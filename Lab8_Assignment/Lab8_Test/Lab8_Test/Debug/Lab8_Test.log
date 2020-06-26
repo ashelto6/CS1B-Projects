@@ -1,0 +1,5 @@
+﻿  battleship.cpp
+  testShips.cpp
+C:\Users\ajshe\Desktop\CS1 Lab Projects\CS1B Assignments\Lab8_Assignment\Lab8_Test\Lab8_Test\testShips.cpp(12,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Lab8_Test.vcxproj -> C:\Users\ajshe\Desktop\CS1 Lab Projects\CS1B Assignments\Lab8_Assignment\Lab8_Test\Debug\Lab8_Test.exe
